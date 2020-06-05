@@ -1,0 +1,2 @@
+# My-4th-Year-Thesis-papaer-ViMal-Total-Suite
+ViMal-Total Suite: A Suite of Tools Consisting of Guides, Apps and Scripts to Support the Modern Honey Network (MHN) Platform. This project aimed at addressing the recruit gap in the cyber security sector, in the Irish market, by providing a suite of guides apps and tools that would allow hobbyists, enthusiasats and young people whithan interest, or passion in cyber security to self educatte themself in Honeypots and SIEMs.
